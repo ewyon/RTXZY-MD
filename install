@@ -1,0 +1,6 @@
+apt install nodejs
+apt install bash
+apt install ffmpeg
+apt install libwebp
+npm i
+node index.js
